@@ -124,6 +124,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7932dd1448a7e0a40a5e3ee54e46b4c9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  controlMode: 2
+  targetObject: {fileID: 2851859587008556783}
+  foodPrefab: {fileID: 2851859587008556783}
 --- !u!54 &2785997970285736149
 Rigidbody:
   m_ObjectHideFlags: 0
